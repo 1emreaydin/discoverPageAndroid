@@ -1,4 +1,4 @@
-# discoverPageAndroid
+# explorePageAndroid
 
 These codes are for an example explore page. 
 
