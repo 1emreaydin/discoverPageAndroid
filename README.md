@@ -1,16 +1,17 @@
 # Keşfet Sayfası / Explore Page 
 
-These codes are for an example explore page. 
+Örnek bir keşfet sayfası kodlanmıştır. / These codes are for an example explore page. 
 
-Viewpager
-Recyclerview
-Retrofit Library
-SwipeRefreshLayout
-CardView
-Gson
-Using ConstraintLayout
-SearchBox
-Using Json Data
+## Kullanılan Kütüphaneler / Libraries
+### Viewpager
+### Recyclerview
+### Retrofit Library
+### SwipeRefreshLayout
+### CardView
+### Gson
+### Using ConstraintLayout
+### SearchBox
+### Using Json Data
 
 <p float="left">
  <img src="https://github.com/1emreaydin/explorePageAndroid/blob/master/Screenshot_20181215-234848.png" width="300">
